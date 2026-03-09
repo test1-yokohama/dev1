@@ -10,6 +10,7 @@ namespace Test_01
 	{
 		static void Main(string[] args)
 		{
+			var value = 1;
 		}
 	}
 }
